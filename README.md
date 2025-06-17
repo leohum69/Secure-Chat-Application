@@ -32,8 +32,8 @@ CryptoChat Palace is a secure messaging web application featuring end-to-end enc
 
 1. **Clone the repository**
    ```sh
-   git clone <[YOUR_GIT_URL](https://github.com/leohum69/Secure-Chat-Application)>
-   cd <Secure-Chat-Application>
+   git clone https://github.com/leohum69/Secure-Chat-Application
+   cd Secure-Chat-Application
    ```
 
 2. **Install frontend dependencies**
